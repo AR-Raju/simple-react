@@ -1,5 +1,5 @@
 import React from "react";
-import PlayerData from "../../../data/data.json";
+import PlayerData from "../../data/data.json";
 import { useEffect, useState } from "react";
 import "./Player.css";
 import PlayerDetails from "../PlayerDetails/PlayerDetails";
